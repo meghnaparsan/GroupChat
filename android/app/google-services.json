@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "215554297378",
+    "firebase_url": "https://groupie-3548b.firebaseio.com",
+    "project_id": "groupie-3548b",
+    "storage_bucket": "groupie-3548b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215554297378:android:004bbb8f8bcdb0b895847b",
+        "android_client_info": {
+          "package_name": "com.meghna.group_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215554297378-iiau70h9u90qa09aqqf80keioin1l0jf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCaJMenczvYkRaCmyWGqej9-xApqkUzUg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215554297378-iiau70h9u90qa09aqqf80keioin1l0jf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
